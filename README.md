@@ -35,13 +35,13 @@
       
    </td>
     <td valign="top" width="40%">
-      <img src="https://i.imgur.com/5ta5pzY.png" align="left" height="" width="300" />  
+      <img src="https://i.imgur.com/5ta5pzY.png" align="center" height="" width="300" />  
     </td>
   </tr></table>  
   
 
 ## Languages and Tools
-    <table><tr>
+   <table><tr>
     <td valign="top" width="50%">
       <div align="center">  
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  

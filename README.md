@@ -24,25 +24,17 @@
   <table><tr>
     <td valign="top" width="50%">
       - 🔭 I’m currently working on Univercy Trilogy as Student
-      
       - 🌱 I’m currently learning web and mobile develoment
-      
       - 👯 I’m looking to collaborate on anyone
-      
-      - 🤔 I’m looking for help with my friend
-      
-      - 💬 Ask me about anything
-      
-      - 📫 Discord   = aldi.mulia#3375
-      
-      - 😄 Pronouns  = Indonesia 
-      
-      - ⚡ Fun fact  = Students who are misdirected  
-      
+      - 🤔 I’m looking for help with my friend      
+      - 💬 Ask me about anything      
+      - 📫 Discord   = aldi.mulia#3375      
+      - 😄 Pronouns  = Indonesia       
+      - ⚡ Fun fact  = Students who are misdirected
     </td>
     <td valign="top" width="50%">
       <img src="https://i.imgur.com/5ta5pzY.png" align="right" height="300" width="" />
-    </td>
+    </td>    
   </tr></table>
   
 

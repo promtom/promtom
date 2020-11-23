@@ -1,5 +1,6 @@
 ### ### Hi there I am Aldi Mulia Wijaya👋  
-  From Indonesia
+  Gender  = ♂️
+  County  = Indonesia
 <br/>  
 
 ## Connect with me  
@@ -22,7 +23,7 @@
 
 ## About me   
   <table><tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
       
       - 🔭 I’m currently working on Univercy Trilogy as Student
       - 🌱 I’m currently learning web and mobile develoment
@@ -34,8 +35,8 @@
       - ⚡ Fun fact  = Students who are misdirected  
       
    </td>
-    <td valign="top" width="40%">
-      <img src="https://i.imgur.com/5ta5pzY.png" align="center" height="" width="300" />  
+    <td valign="top" width="50%">
+      <img src="https://i.imgur.com/5ta5pzY.png" align="center" height="300" width="300" />  
     </td>
   </tr></table>  
   
@@ -58,7 +59,10 @@
       </div> 
     </td>
     <td valign="top" width="50%">
-        <img src="https://scontent.fcgk23-1.fna.fbcdn.net/v/t1.0-9/126447925_2787294014848657_5958646978427714953_n.jpg?_nc_cat=110&ccb=2&_nc_sid=825194&_nc_eui2=AeHNl6beD2pLpTJ1WIfGHxgl9g0aR0KOAlD2DRpHQo4CULbIRExSudcCC-pilZJCGOOM8Su2i1hVW5VXbLJ_DkSl&_nc_ohc=0pFDV4qsYzQAX8f8PTq&_nc_ht=scontent.fcgk23-1.fna&oh=79f64389fc571fb2a93b342d029da2c5&oe=5FDFA208" align="left" style="width: 100%"/>  
+        <img 
+             src="https://scontent.fcgk23-1.fna.fbcdn.net/v/t1.0-9/126447925_2787294014848657_5958646978427714953_n.jpg?_nc_cat=110&ccb=2&_nc_sid=825194&_nc_eui2=AeHNl6beD2pLpTJ1WIfGHxgl9g0aR0KOAlD2DRpHQo4CULbIRExSudcCC-pilZJCGOOM8Su2i1hVW5VXbLJ_DkSl&_nc_ohc=0pFDV4qsYzQAX8f8PTq&_nc_ht=scontent.fcgk23-1.fna&oh=79f64389fc571fb2a93b342d029da2c5&oe=5FDFA208" 
+             align="center" height="300" width="300"
+        />  
     </td>
   </tr></table>
 <br/>  

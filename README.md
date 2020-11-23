@@ -23,7 +23,6 @@
 ## About me   
   <table><tr>
     <td valign="top" width="60%">
-
       - 🔭 I’m currently working on Univercy Trilogy as Student
       - 🌱 I’m currently learning web and mobile develoment
       - 👯 I’m looking to collaborate on anyone
@@ -32,9 +31,7 @@
       - 📫 Discord   = aldi.mulia#3375      
       - 😄 Pronouns  = Indonesia       
       - ⚡ Fun fact  = Students who are misdirected  
-
    </td>
-
     <td valign="top" width="40%">
       <img src="https://i.imgur.com/5ta5pzY.png" align="left" height="" width="300" />  
     </td>

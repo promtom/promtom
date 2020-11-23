@@ -1,6 +1,4 @@
 ### ### Hi there I am Aldi Mulia Wijaya👋  
-  Gender  = ♂️
-  County  = Indonesia
 <br/>  
 
 ## Connect with me  
@@ -25,6 +23,8 @@
   <table><tr>
     <td valign="top" width="50%">
       
+      -  I’m from Indonesia
+      -  I’m Male
       - 🔭 I’m currently working on Univercy Trilogy as Student
       - 🌱 I’m currently learning web and mobile develoment
       - 👯 I’m looking to collaborate on anyone

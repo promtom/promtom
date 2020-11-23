@@ -24,16 +24,24 @@
   <table><tr>
     <td valign="top" width="50%">
       - 🔭 I’m currently working on Univercy Trilogy as Student
+      
       - 🌱 I’m currently learning web and mobile develoment
+      
       - 👯 I’m looking to collaborate on anyone
+      
       - 🤔 I’m looking for help with my friend
+      
       - 💬 Ask me about anything
+      
       - 📫 Discord   = aldi.mulia#3375
+      
       - 😄 Pronouns  = Indonesia 
+      
       - ⚡ Fun fact  = Students who are misdirected  
+      
     </td>
     <td valign="top" width="50%">
-      <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+      <img src="https://i.imgur.com/5ta5pzY.png" align="right" height="300" width="" />
     </td>
   </tr></table>
   
@@ -63,9 +71,7 @@
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
     </td>
-  </tr></table>  
-  <div align="right">
-  <img src="https://i.imgur.com/5ta5pzY.png" align="right" height="300" width="" />
-  </div>
+  </tr></table> 
 <br/>  
 ----
+      <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

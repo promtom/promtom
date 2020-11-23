@@ -36,7 +36,7 @@
       
    </td>
     <td valign="top" width="50%">
-      <img src="https://i.imgur.com/5ta5pzY.png" align="center" height="300" width="300" />  
+      <img src="https://i.imgur.com/5ta5pzY.png" align="center" height="200" width="200" />  
     </td>
   </tr></table>  
   
